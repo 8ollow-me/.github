@@ -28,11 +28,7 @@ Microsoft AI School 6기 1차 프로젝트 8팀의 GitHub Organization입니다.
 </table>
 
 ## 🐶 프로젝트 로건
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/python-3.13.1-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Yolo-v11m-111F68?logo=yolo&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-ResNet--34-EE4C2C?logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/python-3.13.1-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Yolo-v11m-111F68?logo=yolo&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-ResNet--34-EE4C2C?logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
 
 **프로젝트 로건**은 반려동물용 홈캠의 사용 경험을 인공지능 기반의 앱으로써 개선합니다.
 
