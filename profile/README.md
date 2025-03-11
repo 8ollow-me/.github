@@ -56,7 +56,7 @@ Microsoft AI School 6기 1차 프로젝트 8팀의 GitHub Organization입니다.
     </tr>
     <tr>
         <td>특정 행동에 대한 알림을 설정할 수 있습니다.</td>
-        <td>이전에 감지된 행동에 대한 기록이 남아있어 한 번에 확인할 수 있습니다.</td>
+        <td>이전에 감지된 행동에 대한 기록을 한 번에 확인할 수 있습니다.</td>
     </tr>
 </table>
 
