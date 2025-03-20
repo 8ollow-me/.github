@@ -1,7 +1,6 @@
 # 8️⃣ 8ollow-me
 Microsoft AI School 6기 1차 프로젝트 8팀의 GitHub Organization입니다.
 
-## 🧐 팀원
 <table>
     <tr>
         <th colspan="3">인터페이스 팀</th>
