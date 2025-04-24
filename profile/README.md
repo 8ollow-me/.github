@@ -35,10 +35,10 @@ Microsoft AI School 6기 1차 프로젝트 8팀의 GitHub Organization입니다.
 [<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=8ollow-me&repo=rogun-app&card_width=400&show_owner=true">](https://github.com/8ollow-me/rogun-app)
 
 ### ✨ 주요 기능
-- [x] 반려동물 실시간 관찰
-- [x] 특정 행동 변화를 감지하여 푸시 알림 생성
-- [x] 활동량 분석
-- [x] 행동 변화 감지 시에 자동으로 녹화
+- 반려동물 실시간 관찰
+- 특정 행동 변화를 감지하여 푸시 알림 생성
+- 활동량 분석
+- 행동 변화 감지 시에 자동으로 녹화
 
 ### 📌 사용 예시
 <table>
